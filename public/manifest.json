@@ -1,0 +1,22 @@
+{
+  "name": "도깨비에디터",
+  "short_name": "도깨비에디터",
+  "description": "내주변 및 전국 마사지 할인 검색 플랫폼",
+  "theme_color": "#f26b53",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/static/icon_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
